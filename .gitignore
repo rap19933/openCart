@@ -1,0 +1,11 @@
+/.idea
+/admin/config.php
+/config.php
+/retailcrm.xml
+download/
+image/data/
+image/cache/
+system/cache/
+system/logs/
+
+system/storage/

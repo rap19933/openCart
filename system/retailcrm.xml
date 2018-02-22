@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2018-02-22 02:35:59">
+  <shop>
+    <name>Интернет магазин Opencart "Русская сборка"</name>
+    <categories>
+      <category id="35" parentId="28">test 1</category>
+      <category id="36" parentId="28">test 2</category>
+      <category id="37" parentId="34">test 5</category>
+      <category id="38" parentId="34">test 4</category>
+      <category id="39" parentId="34">test 6</category>
+      <category id="40" parentId="34">test 7</category>
+      <category id="41" parentId="34">test 8</category>
+      <category id="42" parentId="34">test 9</category>
+      <category id="43" parentId="34">test 11</category>
+      <category id="44" parentId="34">test 12</category>
+      <category id="45" parentId="18">Windows</category>
+      <category id="46" parentId="18">Macs</category>
+      <category id="47" parentId="34">test 15</category>
+      <category id="48" parentId="34">test 16</category>
+      <category id="49" parentId="34">test 17</category>
+      <category id="50" parentId="34">test 18</category>
+      <category id="51" parentId="34">test 19</category>
+      <category id="52" parentId="34">test 20</category>
+      <category id="53" parentId="34">test 21</category>
+      <category id="54" parentId="34">test 22</category>
+      <category id="55" parentId="34">test 23</category>
+      <category id="56" parentId="34">test 24</category>
+      <category id="58" parentId="52">test 25</category>
+      <category id="20">Компьютеры</category>
+      <category id="26" parentId="20">PC</category>
+      <category id="28" parentId="25">Мониторы</category>
+      <category id="29" parentId="25">Манипуляторы мышь</category>
+      <category id="30" parentId="25">Принтеры</category>
+      <category id="31" parentId="25">Сканеры</category>
+      <category id="32" parentId="25">Веб камеры</category>
+      <category id="18">Ноутбуки</category>
+      <category id="27" parentId="20">Mac</category>
+      <category id="25">Комплектующие</category>
+      <category id="57">Планшеты</category>
+      <category id="17">Софт</category>
+      <category id="24">Телефоны</category>
+      <category id="33">Камеры</category>
+      <category id="34">MP3 плееры</category>
+    </categories>
+    <offers>
+      <offer id="42#217-39_218-32" productId="42" quantity="92">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Red, Radio: Small)</name>
+        <price>114</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Red</param>
+        <param code="218" name="Radio">Small</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-39_218-31" productId="42" quantity="92">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Red, Radio: Medium)</name>
+        <price>124</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Red</param>
+        <param code="218" name="Radio">Medium</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-39_218-43" productId="42" quantity="92">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Red, Radio: Large)</name>
+        <price>134</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Red</param>
+        <param code="218" name="Radio">Large</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-40_218-32" productId="42" quantity="96">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Blue, Radio: Small)</name>
+        <price>113</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Blue</param>
+        <param code="218" name="Radio">Small</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-40_218-31" productId="42" quantity="146">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Blue, Radio: Medium)</name>
+        <price>123</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Blue</param>
+        <param code="218" name="Radio">Medium</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-40_218-43" productId="42" quantity="300">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Blue, Radio: Large)</name>
+        <price>133</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Blue</param>
+        <param code="218" name="Radio">Large</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-41_218-32" productId="42" quantity="96">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Green, Radio: Small)</name>
+        <price>111</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Green</param>
+        <param code="218" name="Radio">Small</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-41_218-31" productId="42" quantity="100">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Green, Radio: Medium)</name>
+        <price>121</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Green</param>
+        <param code="218" name="Radio">Medium</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-41_218-43" productId="42" quantity="100">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Green, Radio: Large)</name>
+        <price>131</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Green</param>
+        <param code="218" name="Radio">Large</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-42_218-32" productId="42" quantity="96">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Yellow, Radio: Small)</name>
+        <price>112</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Yellow</param>
+        <param code="218" name="Radio">Small</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-42_218-31" productId="42" quantity="146">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Yellow, Radio: Medium)</name>
+        <price>122</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Yellow</param>
+        <param code="218" name="Radio">Medium</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="42#217-42_218-43" productId="42" quantity="200">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Apple Cinema 30&amp;quot;</productName>
+        <name>Apple Cinema 30&amp;quot; (Select: Yellow, Radio: Large)</name>
+        <price>132</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/apple_cinema_30-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=42</url>
+        <param code="217" name="Select">Yellow</param>
+        <param code="218" name="Radio">Large</param>
+        <param code="weight" name="Вес">12.5</param>
+      </offer>
+      <offer id="30#226-39" productId="30" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>33</categoryId>
+        <productName>Canon EOS 5D</productName>
+        <name>Canon EOS 5D (Select: Red)</name>
+        <price>100</price>
+        <vendor>Canon</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=30</url>
+        <param code="226" name="Select">Red</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="30#226-40" productId="30" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>33</categoryId>
+        <productName>Canon EOS 5D</productName>
+        <name>Canon EOS 5D (Select: Blue)</name>
+        <price>100</price>
+        <vendor>Canon</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=30</url>
+        <param code="226" name="Select">Blue</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="47" productId="47" quantity="1000">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>20</categoryId>
+        <productName>HP LP3065</productName>
+        <name>HP LP3065</name>
+        <price>100</price>
+        <vendor>Hewlett-Packard</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/hp_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=47</url>
+        <param code="weight" name="Вес">1</param>
+      </offer>
+      <offer id="28" productId="28" quantity="939">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>24</categoryId>
+        <productName>HTC Touch HD</productName>
+        <name>HTC Touch HD</name>
+        <price>100</price>
+        <vendor>HTC</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/htc_touch_hd_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=28</url>
+        <param code="weight" name="Вес">146.4</param>
+      </offer>
+      <offer id="41" productId="41" quantity="977">
+        <productActivity>Y</productActivity>
+        <categoryId>27</categoryId>
+        <productName>iMac</productName>
+        <name>iMac</name>
+        <price>100</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/imac_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=41</url>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="40" productId="40" quantity="969">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>24</categoryId>
+        <productName>iPhone</productName>
+        <name>iPhone</name>
+        <price>101</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/iphone_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=40</url>
+        <param code="weight" name="Вес">10</param>
+      </offer>
+      <offer id="48" productId="48" quantity="995">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>34</categoryId>
+        <productName>iPod Classic</productName>
+        <name>iPod Classic</name>
+        <price>100</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/ipod_classic_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=48</url>
+        <param code="article" name="Артикул">test 1</param>
+        <param code="weight" name="Вес">1</param>
+      </offer>
+      <offer id="36" productId="36" quantity="994">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <productName>iPod Nano</productName>
+        <name>iPod Nano</name>
+        <price>100</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/ipod_nano_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=36</url>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="34" productId="34" quantity="1000">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <productName>iPod Shuffle</productName>
+        <name>iPod Shuffle</name>
+        <price>100</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/ipod_shuffle_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=34</url>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="32" productId="32" quantity="999">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <productName>iPod Touch</productName>
+        <name>iPod Touch</name>
+        <price>100</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/ipod_touch_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=32</url>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="43" productId="43" quantity="929">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>20</categoryId>
+        <productName>MacBook</productName>
+        <name>MacBook</name>
+        <price>500</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/macbook_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=43</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="44" productId="44" quantity="1000">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>20</categoryId>
+        <productName>MacBook Air</productName>
+        <name>MacBook Air</name>
+        <price>1000</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/macbook_air_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=44</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="45" productId="45" quantity="998">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <productName>MacBook Pro</productName>
+        <name>MacBook Pro</name>
+        <price>2000</price>
+        <vendor>Apple</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/macbook_pro_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=45</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="31" productId="31" quantity="1000">
+        <productActivity>Y</productActivity>
+        <categoryId>33</categoryId>
+        <productName>Nikon D300</productName>
+        <name>Nikon D300</name>
+        <price>80</price>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/nikon_d300_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=31</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="29" productId="29" quantity="999">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>24</categoryId>
+        <productName>Palm Treo Pro</productName>
+        <name>Palm Treo Pro</name>
+        <price>279.99</price>
+        <vendor>Palm</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/palm_treo_pro_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=29</url>
+        <param code="weight" name="Вес">133</param>
+      </offer>
+      <offer id="35#224-46" productId="35" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <productName>Product 8</productName>
+        <name>Product 8 (Size: Small)</name>
+        <price>105</price>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=35</url>
+        <param code="224" name="Size">Small</param>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="35#224-47" productId="35" quantity="10">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <productName>Product 8</productName>
+        <name>Product 8 (Size: Medium)</name>
+        <price>110</price>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=35</url>
+        <param code="224" name="Size">Medium</param>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="35#224-48" productId="35" quantity="15">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <productName>Product 8</productName>
+        <name>Product 8 (Size: Large)</name>
+        <price>115</price>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=35</url>
+        <param code="224" name="Size">Large</param>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="49" productId="49" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>57</categoryId>
+        <productName>Samsung Galaxy Tab 10.1</productName>
+        <name>Samsung Galaxy Tab 10.1</name>
+        <price>199.99</price>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/samsung_tab_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=49</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="33" productId="33" quantity="1000">
+        <productActivity>Y</productActivity>
+        <categoryId>20</categoryId>
+        <categoryId>28</categoryId>
+        <productName>Samsung SyncMaster 941BW</productName>
+        <name>Samsung SyncMaster 941BW</name>
+        <price>200</price>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/samsung_syncmaster_941bw-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=33</url>
+        <param code="weight" name="Вес">5</param>
+      </offer>
+      <offer id="46" productId="46" quantity="1000">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>20</categoryId>
+        <productName>Sony VAIO</productName>
+        <name>Sony VAIO</name>
+        <price>1000</price>
+        <vendor>Sony</vendor>
+        <picture>http://rap19933.mcdir.ru/image/cache/catalog/demo/sony_vaio_1-200x200.jpg</picture>
+        <url>http://rap19933.mcdir.ru/index.php?route=product/product&amp;product_id=46</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
