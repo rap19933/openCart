@@ -56,8 +56,7 @@ class ModelExtensionRetailcrmIcml extends Model
         if (!file_exists($downloadPath)) {
             mkdir($downloadPath, 0755);
         }
-print_r($xml);
-        die;
+
         $this->dd->save($downloadPath . 'retailcrm.xml');
     }
 
