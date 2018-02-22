@@ -86,7 +86,9 @@ class ModelExtensionRetailcrmOrder extends Model {
     }
 
     protected function processOrder($order_data, $order_id)
-    {   
+    {
+        print_r($order_data);
+        die;
         $this->moduleTitle = $this->getModuleTitle();
         $this->load->model('setting/setting');
         $this->load->model('catalog/product');
@@ -235,7 +237,8 @@ class ModelExtensionRetailcrmOrder extends Model {
                 }
             }
         }
-
+        print_r($order);
+        die;
         return $order;
     }
 

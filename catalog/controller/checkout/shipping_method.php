@@ -2,7 +2,7 @@
 class ControllerCheckoutShippingMethod extends Controller {
 	public function index() {
 		$this->load->language('checkout/checkout');
-
+        //print_r($this->session->data['shipping_address']);
 		if (isset($this->session->data['shipping_address'])) {
 			// Shipping Methods
 			$method_data = array();
@@ -38,7 +38,8 @@ class ControllerCheckoutShippingMethod extends Controller {
 
 			$this->session->data['shipping_methods'] = $method_data;
 		}
-
+        //$this->session->data['shipping_methods'] = '';
+        //print_r($this->session->data['shipping_methods']);
 		if (empty($this->session->data['shipping_methods'])) {
 			$data['error_warning'] = sprintf($this->language->get('error_no_shipping'), $this->url->link('information/contact'));
 		} else {
@@ -62,7 +63,8 @@ class ControllerCheckoutShippingMethod extends Controller {
 		} else {
 			$data['comment'] = '';
 		}
-		
+       /* print_r($data);
+        die;*/
 		$this->response->setOutput($this->load->view('checkout/shipping_method', $data));
 	}
 
